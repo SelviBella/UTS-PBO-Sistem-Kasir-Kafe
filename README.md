@@ -71,13 +71,19 @@ Program dijalankan melalui kelas utama `MainApp.java` yang berada di package `ma
 
    ---
 
-4. **Menu 3 (Keluar):** Menutup aplikasi dengan aman.
+   <img width="380" height="225" alt="image" src="https://github.com/user-attachments/assets/a6b62b90-9a31-48c5-ab51-2dd1e162ad76" />
+
+   Apabila pelanggan belum memilih menu pemesanan dan langsung melakukan pembayaran.
+
+   ---
+
+5. **Menu 3 (Keluar):** Menutup aplikasi dengan aman.
 
    <img width="261" height="90" alt="image" src="https://github.com/user-attachments/assets/54e94d80-3b20-4fda-984b-aaa30e7ca864" />
 
    ---
 
-5. **Pilihan Menu Lain:** Apabila memasukkan pilihan menu yang tidak tersedia pada menu utama/menu awal.
+6. **Pilihan Menu Lain:** Apabila memasukkan pilihan menu yang tidak tersedia pada menu utama/menu awal.
 
    <img width="223" height="87" alt="image" src="https://github.com/user-attachments/assets/16844ad4-632e-4200-9aef-be9a6288cd24" />
 
