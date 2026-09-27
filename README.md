@@ -73,7 +73,7 @@ Program dijalankan melalui kelas utama `MainApp.java` yang berada di package `ma
 
    <img width="380" height="225" alt="image" src="https://github.com/user-attachments/assets/a6b62b90-9a31-48c5-ab51-2dd1e162ad76" />
 
-   Apabila pelanggan belum memilih menu pemesanan dan langsung melakukan pembayaran.
+   Apabila pelanggan belum melakukan pemesanan dan langsung melanjutkan pembayaran.
 
    ---
 
